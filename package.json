@@ -1,5 +1,5 @@
 {
-  "name": "baseui",
+  "name": "@thomaskokholm/baseui",
   "version": "1.0.0",
   "description": "Base UI elements for web driven solutions",
   "main": "index.js",
