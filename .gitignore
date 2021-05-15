@@ -80,6 +80,7 @@ web_modules/
 .parcel-cache
 .next
 out
+dist
 .cache/
 
 # yarn v2
